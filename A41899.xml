@@ -1,0 +1,1092 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Great feast of the gospel-passover, or, The commemoration of the sufferings of Christ celebrated in his Last Supper a poem.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41899</idno>
+            <idno type="STC">Wing G1692A</idno>
+            <idno type="STC">ESTC R26751</idno>
+            <idno type="EEBO-CITATION">09531555</idno>
+            <idno type="OCLC">ocm 09531555</idno>
+            <idno type="VID">43529</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41899)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43529)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1332:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Great feast of the gospel-passover, or, The commemoration of the sufferings of Christ celebrated in his Last Supper a poem.</title>
+               </titleStmt>
+               <extent>[2], 27, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Author by James Astwood and sold by Peter Parker and John Salusbury, John Lawrence and John Harris,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed and entered according to order."</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Last Supper --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43529:1"/>
+            <p>THE Great Feaſt OF THE Goſpel-Paſſover: OR The Commemoration of the Sufferings of Chriſt, Celebrated in his laſt Supper.</p>
+            <q>
+               <bibl>
+                  <hi>Matth. 26.</hi> chap.</bibl>
+               <p>
+                  <bibl>V. 26.</bibl>And as they were eating, Jeſus took Bread, and bleſſed it, and brake it, and gave it to the Diſciples, and ſaid, Take, eat, this is my Body.</p>
+               <p>
+                  <bibl>V. 27.</bibl>And he took the Cup, and gave Thanks, and gave it to them, ſaying, Drink ye all of it:</p>
+               <p>
+                  <bibl>V. 28.</bibl>For this is my Blood of the New Teſta<g ref="char:EOLhyphen"/>ment, which is ſhed for many for the remiſſion of Sins.</p>
+            </q>
+            <l>Chriſt's Fleſh and Blood they feed on who Believe;</l>
+            <l>And he to them Eternal Life doth give.</l>
+            <l>Chriſt dy'd, to ſave from Death his Turtle Dove:</l>
+            <l>She offers up her ſelf to him in Love.</l>
+            <p>
+               <hi>John</hi> 6.40, 54, 63. <hi>Cant.</hi> 7.10. <hi>Rom.</hi> 12.1.</p>
+            <p>A POEM.</p>
+            <p>Licenſed and Entered according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author by <hi>James Aſtwood,</hi> and Sold by <hi>Peter Parker</hi> at the <hi>Legg</hi> and <hi>Star,</hi> and <hi>John Salusbury</hi> at the <hi>Riſing Sun,</hi> both in <hi>Cornhill; John Lawrence</hi> at the <hi>Angel,</hi> and <hi>John Harris</hi> at the <hi>Harrow,</hi> both in the <hi>Poultrey.</hi> 1694.</p>
+         </div>
+         <div type="introductory_poem">
+            <pb facs="tcp:43529:2"/>
+            <pb facs="tcp:43529:2"/>
+            <head>The Introduction.</head>
+            <l>THe Supper of the Lord Commemorates</l>
+            <l>The quinteſſence of all our Goſpel Cates:</l>
+            <l>Chriſts Inſtitution makes each element</l>
+            <l>Tranſcendent excellencies repreſent.</l>
+            <l>In this great Miſt'ry lively is held forth</l>
+            <l>A bleſſing of ineſtimable worth.</l>
+            <l>The apple of the Tree of life is here,</l>
+            <l>For God himſelf is a Believers cheer,</l>
+            <l>The banner of free Grace is here diſplay'd,</l>
+            <l>And glorious'ly into the heart convey'd:</l>
+            <l>To Faiths ſharp-ſighted eye, Chriſt doth appear</l>
+            <l>I'th' oriency of his beauty here;</l>
+            <l>And ſo his golden lines of Love imparts</l>
+            <l>
+               <g ref="char:V">Ʋ</g>nto the centre of Believers bearts.</l>
+            <l>The Word, doth Trumpet-like, proclaim his grace;</l>
+            <l>This, like a Glaſs, doth repreſent his face.</l>
+            <l>The things we ſee, far more impreſſion leave</l>
+            <l>
+               <g ref="char:V">Ʋ</g>pon our heart, than thoſe the ear receive.</l>
+            <l>A Solemn ſpectacle of Death, invites</l>
+            <l>That heart to mourn, which an Oration ſleights;</l>
+            <l>Even ſo Chriſts Death, thus repreſented, more</l>
+            <l>Affects our Souls, than preaching on't before.</l>
+            <l>Thus Chriſt doth both the ſoul and ſenſes feaſt</l>
+            <l>Of every Self-examin'd longing gueſt.</l>
+            <pb facs="tcp:43529:3"/>
+            <l>Chriſt feaſts his Saints with ſacred wine and bread,</l>
+            <l>His body broken, and his life-blood ſhed:</l>
+            <l>Chriſts broken body, to a broken heart,</l>
+            <l>The onely healing med'cine doth impart.</l>
+            <l>Chriſts mourning is become our Song of mirth,</l>
+            <l>Which gives our dying hopes a Second birth.</l>
+            <l>Chriſt by his ſtripes our wounded Spirits heals,</l>
+            <l>And his free Grace, with his own Signet Seals:</l>
+            <l>Thus Chriſt, to ſtrengthen our weak faith, conjoyns</l>
+            <l>His Sanctifying Word with ſealing ſigns.</l>
+            <l>When we ſit at his Table, the ſweet ſmell</l>
+            <l>Of his rich Grace doth Spikenard far excell.</l>
+            <l>Here, Chriſt, transfigured before our eyes,</l>
+            <l>Gives us a glimpſe o'th' heave'nly Paradiſe.</l>
+            <l>Now we ſhould mount upon Seraphick wings,</l>
+            <l>To meet this Prince of glory, King of Kings:</l>
+            <l>Whoſe mouth an olive-branch of Peace doth bring,</l>
+            <l>Whoſe kiſſes make the Soul with joy to ſing.</l>
+            <l>Chriſt, in thoſe pleaſant Galleries reſides,</l>
+            <l>Wherein the ſweet perfume of Grace abides.</l>
+            <l>Let's on thoſe golden hours high value ſet,</l>
+            <l>When we do at free Grace's Table eat:</l>
+            <l>For Chriſt himſelf is preſent as a Gueſt,</l>
+            <l>And is both the Feaſt-maker and the Feaſt.</l>
+            <l>Who put off God with empty ſhews alone,</l>
+            <l>He only will to them by Signs be known:</l>
+            <l>Who but (to Him) the skin of duty give,</l>
+            <l>The Shell of Comfort only ſhall receive.</l>
+            <l>But God, his grace and glory will impart</l>
+            <l>To thoſe who ſerve him with a perfect heart.</l>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:43529:3"/>
+            <head>THE GREAT FEAST OF THE Goſpel-Paſſover: OR, The Commemoration of the Sufferings of Chriſt celebrated in his laſt Supper. <hi>Mat.</hi> 26.26, 27, 28.</head>
+            <lg>
+               <l>ALL Goſpel Inſtitutions appertain</l>
+               <l>Of Right to Chriſt, who o're his Church doth reign:</l>
+               <l>It is a flower of his Crown, and He</l>
+               <l>On all Uſurpers will avenged be.</l>
+               <l>Chriſt to the Deed of Grace ſubſcribes his Name,</l>
+               <l>Appoints the Seal that ratifies the ſame.</l>
+               <l>Chriſt is the founder of this Ordinance,</l>
+               <l>Which doth its worth and luſtre much advance.</l>
+               <l>The King of Kings this royal Banquet makes,</l>
+               <l>Whereof each Subject, high and low, partakes.</l>
+               <l>This Feaſt Chriſt after Supper celebrates,</l>
+               <l>Which ſhews it chiefly to the Soul relates:</l>
+               <pb n="2" facs="tcp:43529:4"/>
+               <l>'Tis not t' indulge the Senſes, but to feaſt</l>
+               <l>The Graces, that their ſtrength might be increas'd.</l>
+               <l>Chriſt ſeeing fear and danger near at hand,</l>
+               <l>Now arms his Saints that they may theſe withſtand:</l>
+               <l>This Antidote will ſoon expell their fear,</l>
+               <l>This Cordial will their Fainting Spirits cheer.</l>
+               <l>As Chriſt ſet Bread, ſo God ſet Him appart,</l>
+               <l>For Mans Redemption, to rejoyce his heart.</l>
+               <l>Chriſt ſeparates and Sanctifies the bread;</l>
+               <l>So All ſhould be that would therewith be fed.</l>
+               <l>He therefore choſe this very Element,</l>
+               <l>'Cauſe Bread<note n="*" place="bottom">1 Kings 7.48. Gen. 14.18. 1 Kings 19.6.</note> did formerly him repreſent.</l>
+               <l>Muſick and Colours pleaſe the Eye and Ear,</l>
+               <l>But bread gives life, 'tis that the heart doth cheer.</l>
+               <l>As bread doth to the Soul ſubſiſtence give,</l>
+               <l>So he that eateth Chriſt, by him ſhall live.</l>
+               <l>As bread new ſtrength<note n="†" place="bottom">1 Kings 19.8.</note> tranſmits into the heart,</l>
+               <l>So Chriſt doth by this bread more Grace impart.</l>
+               <l>Chriſt both the Soul and Senſes ſatisfies:</l>
+               <l>He's bread to th' heart, and beauty to the eyes.</l>
+               <l>This bread it will ſupply of ſtrength extend,</l>
+               <l>'Till we again the mount of God aſcend.</l>
+               <l>Chriſt ſanctifies the Elements, ſo they</l>
+               <l>His crucifixion to the life pourtray;</l>
+               <l>And thus the ſecret openly imparts,</l>
+               <l>How he conveys Himſelf into our hearts.</l>
+               <l>The Signs, through his effectual bleſſing Seal</l>
+               <l>Thoſe priviledges which He doth reveal.</l>
+               <l>If He gave thanks who was to ſhed his blood,</l>
+               <l>Then how ſhould we, who drink it for our good?</l>
+               <pb n="3" facs="tcp:43529:4"/>
+               <l>This box of oyntment broke, ill Scents conſumes,</l>
+               <l>And fills both Heav'n and Earth with its perfumes.</l>
+               <l>Chriſt to his Church in truth might ſay, I ſee</l>
+               <l>A bloody Spouſe<note n="*" place="bottom">Exod. 4.25.</note> thou haſt been unto me.</l>
+               <l>Water on red-hot Iron pour'd, makes fire,</l>
+               <l>Although the Iron ſuffers not, expire.</l>
+               <l>Chriſts humane Nature ſuffering, the divine</l>
+               <l>Did then triumphantly in glory ſhine.</l>
+               <l>His birth is like unto the riſing Sun,</l>
+               <l>His death is like him, when his race is run.</l>
+               <l>When as the humane nature was to dye,</l>
+               <l>Then the Divine did Juſtice ſatisfie:</l>
+               <l>Chriſts Godhead, Majeſty and power gave</l>
+               <l>Unto his ſufferings; ſo our Souls they ſave.</l>
+               <l>Chriſt is our Altar, Prieſt and Sacrifice;</l>
+               <l>As man, God-man,<note n="†" place="bottom">Mat. 23.19.</note> and God; Gods Lamb thus dyes.</l>
+               <l>Thus Chriſt our Paſſeover for us was ſlain:</l>
+               <l>At this great feaſt let pure affections raign.</l>
+               <l>Chriſts lingring, ſhamefull, curſed Death was Smart,</l>
+               <l>The arrow of Gods wrath did pierce his heart.</l>
+               <l>His pains were equal to the pains of Hell,</l>
+               <l>Which in this<note n="‖" place="bottom">1 Pet. 2.21, to 24.</note> Tragedy are acted well.</l>
+               <l>Well might the lamp of Heav'n withdraw his light,</l>
+               <l>And mask it ſelf with darkneſs, black as night,</l>
+               <l>As bluſhing to behold the glorious Sun</l>
+               <l>Of Righteouſneſs, this gloomy courſe to run.</l>
+               <l>Upon this King Eternal Life depends;</l>
+               <l>This Spring to drooping Souls refreſhing lends.</l>
+               <l>This Death-bed Cordial fainting Spirits chears,</l>
+               <l>This Antidote expells all ſervile fears.</l>
+               <pb n="4" facs="tcp:43529:5"/>
+               <l>With Chriſt there were two pair of Thieves that dy'd;</l>
+               <l>For Sin and Satan too, were crucifi'd.</l>
+               <l>Chriſt alſo took the Cup, which ſhews how free</l>
+               <l>And large his Merits of Redemption be.</l>
+               <l>But how can thoſe Men think with Chriſt to Sup,</l>
+               <l>Who Sacrilegiouſly withhold the Cup.</l>
+               <l>The mortal bleeding of this precious Vine,</l>
+               <l>Is ſignified by this Cup of Wine:</l>
+               <l>Now was the Lilly of the Vallies dy'd</l>
+               <l>A deep Carnation Colour for his Bride.</l>
+               <l>To Chriſt this did a cup of Terror prove,</l>
+               <l>But to his Church a Cup of deareſt Love.</l>
+               <l>When He drank of this deadly cup of blood,</l>
+               <l>It wrought for her an everlaſting good.</l>
+               <l>We ſee in this pure blood, ſo freely ſhed,</l>
+               <l>Sin fully puniſht, fully pardoned.</l>
+               <l>Well might the Spouſe give Chriſt her ſpiced Wine,</l>
+               <l>And juice of her Pomgranates<note n="*" place="bottom">Cant. 8.2.</note> with it joyn;</l>
+               <l>When Chriſt gave her his blood, ſpic'd with his Love,</l>
+               <l>Perfumed with the Godhead from above.</l>
+               <l>Here's Childrens food, with this Chriſt feaſts his Friends,</l>
+               <l>Theſe Cates he to each welcom Gueſt extends.</l>
+               <l>For theſe Chriſt poured out his Pray'rs, his blood:</l>
+               <l>Here's Love tranſcendent; O how great! how good!</l>
+               <l>But to th' Impenitent that have not Faith,</l>
+               <l>He's given for a ſtumbling-ſtone, in wrath:</l>
+               <l>His blood, like Chimick drops a pow'r diſtills,</l>
+               <l>That every Patient quickly cures, or kills.</l>
+               <pb n="5" facs="tcp:43529:5"/>
+               <l>Sinners turn bread to Poyſon by their breath,</l>
+               <l>For <hi>Judas</hi> from the Tree of Life ſuckt Death.</l>
+            </lg>
+            <lg>
+               <l>Saints, here your Everlaſting Joy begins;</l>
+               <l>This Seals to you Remiſſion of your Sins.</l>
+               <l>This mercy is of the firſt Magnitude,</l>
+               <l>This one all other Bleſſings doth include.</l>
+               <l>Whoever hath this Charter granted, is</l>
+               <l>Enrolled in the Book of<note n="*" place="bottom">Pſal. 103.3, 4. &amp; 32 1.</note> Life and Bliſs.</l>
+               <l>Adoption, Glory, Joy, are fixed here,</l>
+               <l>Within the Orb of this Coeleſtial Sphere.</l>
+               <l>One fitly ſtyles this feaſt, the Feaſt oth' Croſs;</l>
+               <l>For Chriſt made that our gain, which was his loſs.</l>
+               <l>To ſay the Bread is Fleſh, is moſt abſurd,</l>
+               <l>Contrary both to Reaſon, and the Word.</l>
+               <l>Untill the Serpent turn'd a Rod again,</l>
+               <l>'Twas no Rod while that ſpecies did remain.</l>
+               <l>This caſts contempt upon Chriſts Ordinance,</l>
+               <l>Which is deſign'd his Glory to advance.</l>
+               <l>Thus they, while thus the bread they Idolize,</l>
+               <l>Blaſpheme Chriſts Prieſthood, ſlight his Sacrifice.</l>
+               <l>This minted Fancy dunghill Brains doth yield,</l>
+               <l>It was not gather'd in the Scriptures Field.</l>
+               <l>As this bleſt Ord'nance doth Chriſts Beauty ſhew,</l>
+               <l>So doth its Virtue ſtrength of Grace beſtow:</l>
+               <l>This Breaſt, this Picture drawn, yields much delight;</l>
+               <l>It feaſts the Eye, and ſacred Appetite.</l>
+               <l>Who in the Sign alone their Scope do ſumm,</l>
+               <l>Short of the Myſtery and Comfort come.</l>
+               <l>Be it enacted <hi>by the King of Heaven,</hi>
+               </l>
+               <l>
+                  <hi>This Feaſt</hi>
+                  <note n="†" place="bottom">Act. 20.7, <hi>&amp;c.</hi> 1 Cor. 11.18, <hi>&amp;c.</hi> &amp; 16.2.</note> 
+                  <hi>be kept o'th' firſt day of the Seav'n.</hi>
+               </l>
+               <pb n="6" facs="tcp:43529:6"/>
+               <l>Thoſe who neglect it through remiſs deſire,</l>
+               <l>Do run into a Goſpel-premunire.</l>
+               <l>The Trophie of rich Mercy's here diſplay'd,</l>
+               <l>Wherein the ground-work of Salvation's laid.</l>
+               <l>To ſlight this Goſpel Mercy is a Crime</l>
+               <l>Which God will ſharply Puniſh<note n="*" place="bottom">Numb. 9.3. Luk. 14.24.</note> in due time.</l>
+               <l>Proud Hipocrites do need a flaming Sword</l>
+               <l>To keep them from the Table of the Lord:</l>
+               <l>Others, Chriſts whip of ſmall Cords need to drive</l>
+               <l>Them, to fetch Virgin Honey from this Hive.</l>
+               <l>Chriſts death muſt be Commemorated here,</l>
+               <l>'Till he at the laſt Judgment-day<note n="†" place="bottom">1 Cor. 11.26.</note> appear.</l>
+               <l>Who come without true Grace fixt in the Heart,</l>
+               <l>Without true Comfort ſhall from thence depart.</l>
+               <l>To Hipocrites 'tis but a golden Dream,</l>
+               <l>If Conſcience wakes, their wants prove more extream.</l>
+               <l>Though Manna <hi>Iſr'els</hi> camp enclos'd, alas!</l>
+               <l>They lookt thereon, but wiſt not what it was.</l>
+               <l>Theſe Perſons ſee th' External Element,</l>
+               <l>Yet know not Chriſt, which it doth repreſent.</l>
+               <l>There's Honey in this Spiritual rock,</l>
+               <l>Which they n'ere taſt of; thus their Souls they mock.</l>
+               <l>They feed upon the empty husk and rind,</l>
+               <l>While they the fruit and marrow leave behind.</l>
+               <l>Like <hi>Iſaac</hi> they a kid for Veniſon take,</l>
+               <l>The ſubſtance of a ſhadow they would make.</l>
+               <l>Chriſt crucifi'd before our eyes is laid;</l>
+               <l>How is Gods Love to Man herein diſplay'd!</l>
+               <l>How far doth this a finite Love excell?</l>
+               <l>This pattern is without a parallel!</l>
+               <pb n="7" facs="tcp:43529:6"/>
+               <l>We on his Love ſhould greater value ſet,</l>
+               <l>Than if he freely had forgave the Debt.</l>
+               <l>That Viper, Sin, Chriſt off his hand did toſs,</l>
+               <l>It was his Love that fixt him to the Croſs.</l>
+               <l>We're Vanity, yea emnity; yet Chriſt</l>
+               <l>Expreſt his Love to us to th' very high'ſt.</l>
+               <l>When we are fighting with contemptuous Pride,</l>
+               <l>He's dying, and the Spear doth pierce his Side.</l>
+               <l>The quinteſſence of Love he did diſplay,</l>
+               <l>When we our ſtate and ſtrength had caſt away.</l>
+               <l>When Chriſt the travel of his Soul eſpy'd,</l>
+               <l>Redemption brought to light, he's Satisfi'd.<note n="(a)" place="bottom">Iſa. 53.11.</note>
+               </l>
+               <l>Chriſt, though he on the Croſs hard labour had,</l>
+               <l>Yet ſeeing this man-child brought forth, was glad.</l>
+               <l>Fall'n Angells, golden Veſſells, he forſakes;</l>
+               <l>Of us, though clods of earth, bright Stars he makes.</l>
+               <l>Chriſt dyed once, but he doth ever Love,</l>
+               <l>And now doth Intercede for us above.</l>
+               <l>How ſhould this Heav'nly fruit our Souls invite!</l>
+               <l>How ſhould this Morning-Star our heart delight!</l>
+               <l>His unconceivable ſurpaſſing Love,</l>
+               <l>Our Souls unto an exſtaſie ſhould move.</l>
+               <l>Who parts with all, if this rich Pearl he gains,</l>
+               <l>Hath purchas'd more than all the World contains.</l>
+               <l>Chriſt, as a Pipe, that golden Oyl imparts<note n="(b)" place="bottom">2 Kings 4.7. Iſa. 10.27. 1 John 2.20.</note>
+               </l>
+               <l>Which brings Redemption to our captiv'd Hearts;</l>
+               <l>Behold Sins odiouſneſs, in the red glaſs</l>
+               <l>Of thoſe ſharp Sufferings through which Chriſt did paſs.</l>
+               <l>Sin, out of Paradiſe did <hi>Adam</hi> turn,</l>
+               <l>And threw the Angells down to Hell to burn.</l>
+               <pb n="8" facs="tcp:43529:7"/>
+               <l>This Sin is a peace-breaker, that doth make</l>
+               <l>Our God fall out with us, and us forſake.</l>
+               <l>Sin, of our Sorrows is the Viprous womb,</l>
+               <l>The grave which all our Comforts doth entomb;</l>
+               <l>What crucifi'd our Lord? Sins Helliſh brood</l>
+               <l>Made Chriſt to vail his Glory, loſe his Blood.</l>
+               <l>If that a woman on that Sword ſhould light</l>
+               <l>Which kill'd her Husband, ſhe would hate its ſight.</l>
+               <l>Do we count that Sin light, call that a joy,</l>
+               <l>Which made Chriſt heavy, took his Life away?<note n="(a)" place="bottom">Mark 14.34. Iſa. 53.3. 1 Pet 2.24.</note>
+               </l>
+               <l>What, ſhall not we thoſe horrid Sins forſake</l>
+               <l>Which did 'twixt God and Chriſt ſuch diſtance make?</l>
+               <l>Let Sin with Indignation be withſtood,<note n="(b)" place="bottom">Pſal. 22.1. Mat 27.46.</note>
+               </l>
+               <l>Say, 'Tis this Sin that poured out<note n="(c)" place="bottom">2 Sam. 23.17.</note> Chriſts blood.</l>
+               <l>Sin pierced Chriſt, to it no pardon give;</l>
+               <l>Slay that, which would not ſuffer Chriſt to live.<note n="(d)" place="bottom">Exod. 21.28.</note>
+               </l>
+               <l>If He who knew no Sin did ſuffer thus,</l>
+               <l>Grudge not if God for Sin do puniſh us.</l>
+               <l>If Chriſt, who was our head was Crown'd with thorns,</l>
+               <l>Shall we think much to ſuffer taunts and ſcorns?</l>
+               <l>Think it not ſtrange with Gold and Gems to part,</l>
+               <l>When as the nails and ſpear did pierce Chriſts heart.</l>
+               <l>Sinners may well expect the laſh, when He</l>
+               <l>Who was an Innocent could not go free.</l>
+               <l>What influence ſhould this have on our hearts,</l>
+               <l>That Chriſt for us with his own heart-blood parts!</l>
+               <l>The rocks did rend with Chriſts heart-renting groans;</l>
+               <l>The Senſleſs heart is harder than the Stones.</l>
+               <pb n="9" facs="tcp:43529:7"/>
+               <l>What large affection ſhould by us be ſhown,</l>
+               <l>Since he to ſpare our Life did loſe his own?</l>
+               <l>O Chriſt! ſo fix thy Self within my heart,</l>
+               <l>That we may never from each other part.</l>
+               <l>This Manna is both Meat and Medicine;</l>
+               <l>Its Nature, and its Virtue are Divine.</l>
+               <l>Chriſt comes with Healing underneath his wings,</l>
+               <l>Sight to blind eyes, Grace to hard hearts He brings.</l>
+               <l>The Saints ſhall feed with Infinite Delight</l>
+               <l>On Chriſt for ever, with pure Appitite.</l>
+               <l>Should this Soul-ſatisfying Manna ceaſe,</l>
+               <l>In Heav'n there neither would be joy nor peace.</l>
+               <l>This Bleſſed Manna, in a Golden ſhrine,</l>
+               <l>The Humane Nature fixt in the Divine,</l>
+               <l>And laid up in the Ark of Heav'n, muſt be</l>
+               <l>A Feaſt for Saints to all Eternitie.</l>
+               <l>Chriſts body on the Croſs digg'd, was the field</l>
+               <l>Which did the Pearl of our Salvation yield.</l>
+               <l>His Blood's a balſom, and a Sweet perfume,</l>
+               <l>Which all our Sorrows will by joy conſume.</l>
+               <l>Favour and Pardon both Chriſts blood obtains,</l>
+               <l>It rents the Vail of Sin, Gods Love regains.<note n="(a)" place="bottom">Col. 1.21. 1 John 2.2.</note>
+               </l>
+               <l>This blood makes us to mount on Eagles wings,</l>
+               <l>A quickning Pow'r into the Soul it brings.<note n="(b)" place="bottom">John 6.54. Lev. 17.11. Iſa. 40.31.</note>
+               </l>
+               <l>Its merit doth the wrath of God appeaſe;</l>
+               <l>Its Vertue cleanſe our hearts from Sins diſeaſe.<note n="(c)" place="bottom">Heb. 9.14. 1 John 1.7.</note>
+               </l>
+               <l>The Word's a glaſs which doth our Spots diſplay,</l>
+               <l>Chriſts blood a Fountain to waſh them away.<note n="(d)" place="bottom">Zach. 13.1.</note>
+               </l>
+               <pb n="10" facs="tcp:43529:8"/>
+               <l>This blood the fouleſt Spots will cleanſe alone,</l>
+               <l>But 'twill not waſh with Compoſition.</l>
+               <l>
+                  <hi>Lots</hi> Inceſt, <hi>Noahs</hi> Drunkenneſs, will grow,</l>
+               <l>Though crimſon Sins, by this blood white as Snow.</l>
+               <l>Saints Merits, Pray'rs of Angels, will but ſmeer,</l>
+               <l>The ſmalleſt Spot they will not cleanſe or clear.</l>
+               <l>Yet on this one black ſpot takes no effect,</l>
+               <l>But 'tis to him who doth its uſe reject.<note n="(a)" place="bottom">Heb. 10.29.</note>
+               </l>
+               <l>This blood will turn a ſtone into a Spring,</l>
+               <l>From Rocky hearts floods of Repentance bring.</l>
+               <l>The Jaylors heart, like melting wax, would take</l>
+               <l>Any Impreſſion God ſhould pleaſe to make.<note n="(b)" place="bottom">Acts 16.30.</note>
+               </l>
+               <l>When Sin and guilt do ſet the heart on flame,</l>
+               <l>This blood, like Springs of water, cools the ſame.<note n="(c)" place="bottom">Jam. 3.6. Iſa. 32.2.</note>
+               </l>
+               <l>This Cordial, at the hour of Death, will bring</l>
+               <l>Such comfort as will make the Soul to ſing.<note n="(d)" place="bottom">Cant. 1.2.</note>
+               </l>
+               <l>Through this red Sea of blood, a gracious Man</l>
+               <l>Enters into the Heav'nly <hi>Canaan.</hi>
+                  <note n="(e)" place="bottom">Heb. 10.9.</note>
+               </l>
+               <l>The Gate of Heav'n, which Sin did ſhut, this key,</l>
+               <l>Doth openly again to us diſplay.</l>
+               <l>The blood o'th' Croſs Eternal Life diſtills,</l>
+               <l>This Tree's bleſt Fruit the Soul with comfort fills.</l>
+               <l>To know Chriſt crucifi'd <hi>Paul</hi> highly priz'd;</l>
+               <l>And ſo ſhould we; 'tis bliſs Epitomiz'd.<note n="(f)" place="bottom">1 Cor. 2.2.</note>
+               </l>
+               <l>The Crowns of Kings are Croſſes tumbling down,</l>
+               <l>The Groſs of Chriſt it is the only Crown.</l>
+               <l>Let's meet the Lord with well-prepared hearts,</l>
+               <l>Who to our Souls ſuch Heav'nly food imparts.<note n="(g)" place="bottom">1 Sam. 7.3. Rom. 9.22, 23.</note>
+               </l>
+               <pb n="11" facs="tcp:43529:8"/>
+               <l>Chriſts blood th' Unworthy do not drink but ſpill,</l>
+               <l>To whom God will his cup of Fury fill.<note n="(a)" place="bottom">1 Cor. 11.27. Jer. 25.15.</note>
+               </l>
+               <l>The Word's a Touchſtone, bring thy Heart to th' touch,</l>
+               <l>There take a proof, try if thy heart be ſuch.<note n="(b)" place="bottom">1 Cor. 11.28.</note>
+               </l>
+               <l>Reflexive acts are difficult, yet we</l>
+               <l>Muſt inward look, our Spirits face to ſee:</l>
+               <l>If in the Cov'nant we no intereſt have,</l>
+               <l>'Tis heighth of Pride the Seal thereof to crave.</l>
+               <l>Would'ſt have ſin mortifi'd, thy wants ſupply'd,</l>
+               <l>Thy Graces ſtrengthen'd? let thy heart be try'd.</l>
+               <l>If thou without a wedding Garment come,</l>
+               <l>The Lord will try thee, and give thee thy doom.<note n="(c)" place="bottom">Mat. 22.12.</note>
+               </l>
+               <l>We are to deal with God, who gave us breath,</l>
+               <l>In matters which concern both Life and Death.</l>
+               <l>Let Grace our hearts ſo ballaſt, we may Sail,</l>
+               <l>Leaſt Gods fierce ſtorms of Fury make us fail.<note n="(d)" place="bottom">Mat. 22.12.</note>
+               </l>
+               <l>That heart cannot be good that wants true light,</l>
+               <l>No more than can the eye that wants its ſight.<note n="(e)" place="bottom">1 Cor. 11.28. &amp; 14.15. Rom. 12.1, 2, 3.</note>
+               </l>
+               <l>Gods Frowns, our Surfeit puniſh, and excite</l>
+               <l>Our Stomack to an Holy Appetite.</l>
+               <l>Let's ſpread the Sails of our deſires, ſo will</l>
+               <l>The gale of Heav'nly bleſſings ſoon them fill:<note n="(f)" place="bottom">Mat. 15.22, to 28. Luk. 18.38, 39. 2 Sam. 23.15.</note>
+               </l>
+               <l>What Royalty, and what Magnificence</l>
+               <l>Doth God in this great Feaſt to Saints diſpence!</l>
+               <l>Here's Heav'nly bread, here's juice of the true Vine;</l>
+               <l>Theſe fill the Gracious Soul with joy Divine.</l>
+               <l>This Store-houſe of Coeleſtial bleſſings, yields</l>
+               <l>Life, Peace, Salvation; Come, let's reap theſe Fields.</l>
+               <pb n="12" facs="tcp:43529:9"/>
+               <l>All Heav'ns ſweet delicacies at this Feaſt,</l>
+               <l>Are ſerved in, t'accommodate each Gueſt.<note n="(a)" place="bottom">Iſa. 25.6.</note>
+               </l>
+               <l>From Earth to Heav'n's a Journey of great length,</l>
+               <l>So we ſhall need a freſh ſupply of Strength.</l>
+               <l>By Sins, wants, foes, we many dangers run,</l>
+               <l>Grace needs new Strength, and Duties muſt be done.</l>
+               <l>Since, by the way, our Souls recruit will need,</l>
+               <l>On this Divine repaſt let's freely feed.<note n="(b)" place="bottom">1 Kings 13.7. Iſa. 40.31.</note>
+               </l>
+               <l>Chriſt, is a Fountain flowing to each Gueſt,</l>
+               <l>It is but crying, and he gives the Breaſt:</l>
+               <l>Chriſt on the thirſty Soul his Bleſſings pours,</l>
+               <l>As freely as the Clouds diſtill in Showers.<note n="(c)" place="bottom">Rev. 22.17.</note>
+               </l>
+               <l>Here is no fear of Surfeit by exceſs,</l>
+               <l>The ſtrongeſt Appetite Chriſt moſt doth bleſs.</l>
+               <l>Chriſt ſaith, Come, Drink and undantly my Dove,</l>
+               <l>Be thou <hi>inebriated</hi> with my Love: <hi>Heb.</hi>
+                  <note n="(d)" place="bottom">Eph. 5.18, 19, 20. Acts 2.4.13, 15. Heb. 13.15. Cant. 5.1.</note>
+               </l>
+               <l>If People loſe their Stomacks, Chriſt will ſay</l>
+               <l>Unto the Foe, Come take the cloth away.</l>
+               <l>The Cup of bleſſing will Support the heart,</l>
+               <l>When Perſecutions Cup doth make it Smart.</l>
+               <l>This did embolden Saints of Old to ſtand</l>
+               <l>With Courage, 'gainſt the Perſecuting band.</l>
+               <l>Let this Sauce ſharpen our dull Appetite,</l>
+               <l>That we may feaſt our Souls with more Delight.</l>
+               <l>When Sin doth broach our hearts with briniſh tears,</l>
+               <l>The Sweetneſs of Chriſts Love the more appears.<note n="(e)" place="bottom">Zach. 12.10.</note>
+               </l>
+               <l>True Gold hath ſome allowance, if too light,</l>
+               <l>So ſhall the Upright heart, whoſe aim is right;</l>
+               <pb n="13" facs="tcp:43529:9"/>
+               <l>Who ſeeks both Sin and Satan to defeat,</l>
+               <l>And ſtrives to make his Holineſs compleat.<note n="(a)" place="bottom">2 Chron. 30.19.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Let ſtrong endearments of Affection flow,</l>
+               <l>When Chirſt his Love ſo freely doth beſtow.<note n="(b)" place="bottom">Cant. 2.6.</note>
+               </l>
+               <l>With empty hearts, unto this Well, now come,</l>
+               <l>And draw Salvation out, which bliſs doth Summ.</l>
+               <l>Chriſt with the humble heart Delights to dwell,</l>
+               <l>And makes it with the fruits of Grace excell.<note n="(c)" place="bottom">Iſa. 57.15. Cant. 2.1, 2, 3.</note>
+               </l>
+               <l>How can thoſe Worms feed on this Heav'nly meat,</l>
+               <l>Who, like the Serpent, only duſt do eat?</l>
+               <l>Unlikeneſs, from Communion us debars;</l>
+               <l>What likeneſs is 'twixt clods of earth and Stars?</l>
+               <l>An earthly man the World his God doth make;</l>
+               <l>So vainly thinks another God to take.</l>
+               <l>I'th' Heav'nly Altitudes affection place,</l>
+               <l>And mount up on the ſoaring wing of Grace.<note n="(d)" place="bottom">1 Cor. 10.16.</note>
+               </l>
+               <l>Who Faithleſs to this Heav'nly Banquet come,</l>
+               <l>May well expect they ſhall go Fruitleſs home.</l>
+            </lg>
+            <lg>
+               <l>Againſt Faiths eagle-eye there is no Fence,</l>
+               <l>It pierceth into things Remote from Senſe.</l>
+               <l>Of Heav'n it Self, our Faith a proſpect takes,</l>
+               <l>And the Inviſible her Object makes.</l>
+               <l>She through the lattice of an Ordinance</l>
+               <l>Sees how Chriſt doth his glorious Name advance.</l>
+               <l>And, which promotes our Everlaſting good,</l>
+               <l>Beholds Chriſts Love, come Streaming through his blood.</l>
+               <l>Who by the eye of Faith behold his Grace,</l>
+               <l>With glorified Eyes ſhall ſee his Face.<note n="(e)" place="bottom">Heb. 11.27.</note>
+               </l>
+               <pb n="14" facs="tcp:43529:10"/>
+               <l>By eating, <hi>Adam</hi> dy'd; by It we live:</l>
+               <l>Feed on the Bread of God, which Life doth give.</l>
+               <l>Here Chriſts Divine and Humane Nature are</l>
+               <l>Both diſhed out; here is delicious Fare.</l>
+               <l>From him all kind of Vertues freely flow:</l>
+               <l>To him for Grace, and Peace and Comfort go.</l>
+               <l>The hand of Faith Chriſts Merit doth receive,</l>
+               <l>Which Juſtifies each Soul that doth believe.</l>
+               <l>This Ring retains the Stone that ſtancheth blood,</l>
+               <l>This vein draws juice from Chriſt our heav'nly food<note n="‖" place="bottom">Eph. 3.19. 2 Pet. 1.9.</note>.</l>
+               <l>That Chriſt would feed and cloath her, Faith deſires;</l>
+               <l>This humble Grace but to this pitch aſpires,<note n="(b)" place="bottom">1 Pet. 1.9.</note>
+               </l>
+               <l>Falſe Faith will break, though Gloriouſly it ſhow,</l>
+               <l>By Perſecutions hammer at a blow.</l>
+               <l>Like <hi>Jonahs</hi> gourd, ſprung up before the day,</l>
+               <l>By Perſecutions blaſt Conſumes away.<note n="(c)" place="bottom">Mark 4.3, &amp;c.</note>
+               </l>
+               <l>Falſe Faith is fancies fruit, true Faith's a flow'r</l>
+               <l>Produced by the Spirits mighty Pow'r.</l>
+               <l>True Faith is an outlandiſh Plant, from Heav'n</l>
+               <l>Extracted, bought with blood, by Grace 'tis giv'n.</l>
+               <l>Our heart-deep Groans, and Pangs will make us mourn,</l>
+               <l>Before this ſacred Infant can be born.<note n="(d)" place="bottom">Act. 2.37.</note>
+               </l>
+               <l>The Hipocrite loves thoſe that praiſe him much;</l>
+               <l>Not thoſe who bring his Faith to Scripture-touch.</l>
+               <l>Good <hi>David</hi> Prayes that God himſelf would try</l>
+               <l>His heart and reins; this ſhews Integrity.<note n="(e)" place="bottom">Pſal. 26.2.</note>
+               </l>
+               <l>An Hipocrite will ſell his Faith for wealth;</l>
+               <l>For he hath none but what he got by Stealth.</l>
+               <pb n="15" facs="tcp:43529:10"/>
+               <l>A Saint will not his ſhield of Faith exchange</l>
+               <l>For a Crown of Gold; though ſome may think it ſtrange.</l>
+               <l>An Hipocrite would Chriſt for Surety take,</l>
+               <l>Not of himſelf to Him ſurrender make.</l>
+               <l>True Faith's impartial, Chriſt 'twill wholly own,</l>
+               <l>Rely on, hearken to, ſerve him alone.</l>
+               <l>Chriſt ſaith I with my body thee endow;</l>
+               <l>The Soul ſaith I alone to thee will bow.</l>
+               <l>The Hipocrite is nothing elſe but Creed;</l>
+               <l>He no Commandement doth purely heed.<note n="(a)" place="bottom">Jer. 3.4, 5.</note>
+               </l>
+               <l>Can health conſiſt with Vitals periſhed,</l>
+               <l>Or Faith be true while men in Sin are dead?</l>
+               <l>True Faith, the miſtery of Faith doth hold,</l>
+               <l>In a good Conſcience; this makes Chriſtians bold.<note n="(b)" place="bottom">1 Tim. 3.9.</note>
+               </l>
+               <l>The Woman who toucht Chriſt by Faith ſhe felt,</l>
+               <l>Such Virtue as her ſtony heart did melt.<note n="(c)" place="bottom">Mark 5.33, 34.</note>
+               </l>
+               <l>Although true Faith of Sin leave ſome remains,</l>
+               <l>Yet ſhe of it a mighty Conqueſt gains.</l>
+               <l>The Fatling is the Hipocrites repaſt;</l>
+               <l>He in a Promiſe can no ſweetneſs taſt.</l>
+               <l>Yet is the Word, when Faith doth ſet it home,</l>
+               <l>More rich than Wine, more Sweet than<note n="(d)" place="bottom">Pſal 19.20. Cant. 1.2.</note> th' Hony-comb.</l>
+               <l>Some thought their Faith, a living Child ith' bed;</l>
+               <l>But looking, found it a ſtrange Infant dead.</l>
+               <l>Avoid Preſumption: Cheriſh faith tha'ts good,</l>
+               <l>Which doth concoct Chriſts precious fleſh and blood.</l>
+               <l>The blood of Chriſt, like <hi>Aqua vitae,</hi> doth</l>
+               <l>Its Vertue loſe, put in a dead-mans mouth.</l>
+               <pb n="16" facs="tcp:43529:11"/>
+               <l>Purge out th' old leaven, Malice, which will ſowre,</l>
+               <l>The Ordinance, and make it loſe its Pow'r.<note n="(a)" place="bottom">1 Cor. 5.7.</note>
+               </l>
+               <l>Though bitter tears become a welcome Gueſt,</l>
+               <l>Let bitter Spirits keep from this Love-feaſt;</l>
+               <l>Chriſts blood between the Lord and us makes Peace,</l>
+               <l>And ſhould make ſtrife among the Saints to ceaſe.</l>
+               <l>Should they who make the fleſh of Chriſt their cheer,</l>
+               <l>With rage the fleſh of one another tear?</l>
+               <l>Who comes with hatred to this Table, He</l>
+               <l>Will both a Murderer and Traytor be:</l>
+               <l>He like a <hi>Judas</hi> will his Lord betray;</l>
+               <l>And, like to <hi>Cain,</hi> will his own Brother ſlay.<note n="(b)" place="bottom">1 Joh. 3.15.</note>
+               </l>
+               <l>It thou to Poys'nous malice do'ſt enure</l>
+               <l>Thy heart, think not this Cordial ſhould thee cure.</l>
+               <l>They know not God, the Goſpel, or true Grace,</l>
+               <l>That by this Sin Religion do deface.<note n="(c)" place="bottom">1 Joh. 4.19. Eph. 6.15. Jam. 3.17.</note>
+               </l>
+               <l>Should Saints divide, when devils do unite?</l>
+               <l>Could Love once cement us we ſtorms ſhould ſlight.</l>
+               <l>It, great reproach upon the head doth caſt,</l>
+               <l>When members one anothers honour blaſt.</l>
+               <l>The fire of raſh Contention, Lord remove,</l>
+               <l>And kindle in our hearts the fire of Love.</l>
+            </lg>
+            <lg>
+               <l>As every Creature, ſo each Ordinance,</l>
+               <l>Pray'r Sanctifies, and doth Gods Name advance.</l>
+               <l>Thus as the Elements convert to food,</l>
+               <l>Our Souls ſhall reap a Spiritual good.</l>
+               <l>For Heav'n, the Dove of pray'r put on the wing,</l>
+               <l>And it the Olive branch of Peace will bring.</l>
+               <pb n="17" facs="tcp:43529:11"/>
+               <l>We ſhould Gods preſence and aſſiſtance crave,</l>
+               <l>That by this Ord'nance he may glory have.</l>
+               <l>That it may feaſt our Graces, and to all</l>
+               <l>Our fleſtly Luſts become a Funeral.</l>
+               <l>Pray, it may be a Sign, Seal, Inſtrument,</l>
+               <l>To Teach, Confirm, and yield Soul-nouriſhment.</l>
+               <l>For theſe, ſend pray'r as Harbinger before,</l>
+               <l>Both to beſpeak, and open us the door.</l>
+               <l>The Tree of bleſſing, ſhook by Pray'r, recruits,</l>
+               <l>The fainting Spirits, with her Cordial fruits.</l>
+               <l>The Lord will not his Mercies caſt away</l>
+               <l>On thoſe who ſeek them not, nor for them pray.</l>
+               <l>With Sighs and groans, let's wreſtle with the Lord:</l>
+               <l>The Lukewarm Suitor is by him abhorr'd<note n="(a)" place="bottom">Gen. 32.24. Rom. 8.26. Jude 20.</note>
+               </l>
+               <l>Speak in the Language which God underſtands:</l>
+               <l>Who in the Spirit prays, his God commands.<note n="(b)" place="bottom">Eph. 6.18. Iſa. 45.11. Jam. 1.5, to 8.</note>
+               </l>
+               <l>Prayer to walk in, is a Golden path:</l>
+               <l>As a crutch to lean on, it no Power hath:</l>
+               <l>In our beſt Garments God can holes eſpy,</l>
+               <l>Our Righteouſneſs as filthy rags deſcry.</l>
+               <l>In preparation mercy hope to find;</l>
+               <l>Deny thy Self when thou do'ſt Juſtice mind.<note n="(c)" place="bottom">Luke 17.15. Iſa. 64.6.</note>
+               </l>
+               <l>Our Services, not purged by Chriſts blood,</l>
+               <l>Do carry Evil in them; but no Good.</l>
+               <l>Uſe means; in Chriſt your Confidence ſtill place,</l>
+               <l>For your acceptance at the Throne of Grace.</l>
+               <l>Be like the Dove, which us'd her wings to fly;</l>
+               <l>But on the Ark for Safety did rely.</l>
+               <pb n="18" facs="tcp:43529:12"/>
+               <l>Thus qualifi'd; Gods Love ſhall us Surround;</l>
+               <l>We, with his fullneſs ſhall be fill'd and Crown'd.<note n="(a)" place="bottom">Eph. 3.19.</note>
+               </l>
+               <l>Come hungring thirſty Soul, Chriſt calls on thee,</l>
+               <l>To Sup with him; fear not, his Grace is free<note n="†" place="bottom">Rev. 3.20. Mark 2.4, 5.</note>.</l>
+               <l>Chriſt of our Sins and ſickneſs felt the ſmart</l>
+               <l>His precious Blood will cleanſe thy leprous heart.<note n="(b)" place="bottom">1 Tim. 1.15. Iſa. 53.4. Luk. 14.21. Lev. 14.7.</note>
+               </l>
+               <l>Preſumtuous Sin, which doth Gods grace abuſe,</l>
+               <l>Opens the mouth of Conſcience to accuſe,</l>
+               <l>And ſtops the Spirits mouth which ſhould ſpeak peace:</l>
+               <l>Yet to Sue out thy Pardon do not ceaſe,<note n="(c)" place="bottom">1 King. 11.9.</note>
+               </l>
+               <l>But on Chriſts blood, thy Anchor-hold, rely,</l>
+               <l>Which cleanſeth Sin, though of a Crimſon dye.</l>
+               <l>
+                  <hi>Noah</hi> was drunk though Saved from the flood;</l>
+               <l>And <hi>David</hi> ſtain'd his Soul and Robe with blood:</l>
+               <l>That Fountain ſtill is open, to waſh in,</l>
+               <l>Which cleanſed them, and it can cleanſe thy Sin.<note n="(d)" place="bottom">Zach. 12.1.</note>
+               </l>
+               <l>
+                  <hi>Peter</hi> denyes his Maſter, others fled:</l>
+               <l>Chriſt, of his Reſurrection from the dead</l>
+               <l>Sends them the joyful News, and paſſeth by</l>
+               <l>Their failings; knowing their Infirmity:<note n="(e)" place="bottom">Math. 26.56, 69, to 75.</note>
+               </l>
+               <l>Of his Aſcenſion alſo lets them know,</l>
+               <l>Uniting joys above with thoſe below.<note n="(f)" place="bottom">Joh. 20.17. Mark 16.7.</note>
+               </l>
+               <l>The blood of Chriſt, like <hi>Abels,</hi> hath a voice;</l>
+               <l>Whoſe Language makes the drooping Soul<note n="‖" place="bottom">Heb. 11.14.</note> rejoyce.</l>
+               <l>To Sin 'tis Mortal, Vital unto grace;</l>
+               <l>Meet Chriſt by Faith, his Love ſhall thee embrace<note n="†" place="bottom">1 Tim. 1.5.</note>.</l>
+               <pb n="19" facs="tcp:43529:12"/>
+               <l>When Grace doth ſtrength againſt Corruption win,</l>
+               <l>When frozen hearts melt into tears for Sin,</l>
+               <l>When th' herb of Grace doth flouriſh, 'tis a Sign,</l>
+               <l>The Sun of Righteouſneſs on thee doth Shine.<note n="(a)" place="bottom">Zach. 10.12. Canr. 4.7.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>To venture on Chriſts blood true Faith is bold,</l>
+               <l>Hopes Chriſt will forth his Golden Scepter hold.<note n="(b)" place="bottom">Joh. 6.37. Mich. 7.19. Joh 20.24.</note>
+               </l>
+               <l>If God thy Soul with gladneſs doth not fill,</l>
+               <l>To fil't with Goodneſs, he hath giv'n his Bill.<note n="(c)" place="bottom">Pſal. 107.9. Luke 1.53.</note>
+               </l>
+               <l>To wait upon the Lord thy Self enure,</l>
+               <l>His mercies oft are Speedy, always Sure.<note n="(d)" place="bottom">Iſa. 55.3.</note>
+               </l>
+               <l>This Sacred Feſtival, is to improve</l>
+               <l>The living mem'ry of Chriſts laſting Love.<note n="(e)" place="bottom">1 Cor. 11.25.</note>
+               </l>
+               <l>Chriſts Paſſion, keep within the Ark, thy mind;</l>
+               <l>'Tis hidden Manna for the Soul deſign'd.<note n="(f)" place="bottom">Joh. 6.48, to 63.</note>
+               </l>
+               <l>Chriſts broken body Soveraign Power hath,</l>
+               <l>To keep us from Gods dreadfull flames of Wrath.</l>
+               <l>His broken body is our Sacrifice.</l>
+               <l>This box of precious Jewells open lyes;<note n="(g)" place="bottom">1 Cor. 5.7. Joh. 1.16.</note>
+               </l>
+               <l>His broken body brake the Serpents head,</l>
+               <l>Now at the Throne of Grace we freely plead.</l>
+               <l>To be an Heir of promiſe yields Renown</l>
+               <l>Of higher value than an earthly Crown.</l>
+               <l>To Chriſt the Croſs a bloody way did prove,</l>
+               <l>To us the milky way to Heav'n above,</l>
+               <l>Chriſt drank a bitter cup of gall, that we</l>
+               <l>With ſtreams of Honey might refreſhed be.</l>
+               <pb n="20" facs="tcp:43529:13"/>
+               <l>His Croſs beſtuck with nails, his fleſh did tear,</l>
+               <l>That we a Crown beſet with Gems might wear.</l>
+               <l>Chriſt on the Croſs extends his arms of Love,</l>
+               <l>T' embrace his Saints, and their affections move.</l>
+               <l>Though Sin, which ſhed Chriſts blood, may tears invite;</l>
+               <l>His blood, which Sin expells, ſhould joy excite.<note n="(a)" place="bottom">Gal. 6.14.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Our thoughts of Chriſt ſhould work Conformity;</l>
+               <l>His dying for us, make Sin in us dye.<note n="(b)" place="bottom">Phil. 3.10. Gal. 6.14.</note>
+               </l>
+               <l>If this Soul-ſeſtival a dry breaſt prove,</l>
+               <l>Our Faith doth not co-operate with Love.</l>
+               <l>When we on fat things feed, drink wine in bowls,</l>
+               <l>Shall leanneſs Seize upon our full-fed Souls?<note n="(c)" place="bottom">Mat. 15.28.</note>
+               </l>
+               <l>Faith puts the bond in Suit, to God ſhe cries;</l>
+               <l>Truſts Him without a pawn, on him relyes.<note n="(d)" place="bottom">Hab. 3.17, 18.</note>
+               </l>
+               <l>Faiths rod doth Smite the rock of Heav'n, and ſo</l>
+               <l>Our want Supplies; makes Oyl and Honey flow.</l>
+               <l>A great Faith opens Heav'n, the world ſubdues,<note n="(e)" place="bottom">Pſal. 37.3.</note>
+               </l>
+               <l>Gods Glory ſtill prefers, our Vows renews.</l>
+               <l>Our paſſion checks, our works by it are grac't,</l>
+               <l>So gives our duties a Delightfull taſt.<note n="(f)" place="bottom">1 Joh. 5.4. 2 Sam. 22.22. Rom. 9.1. 1 Theſſ. 1.6.</note>
+               </l>
+               <l>Our Glory antedates, and by its might</l>
+               <l>Makes things at greateſt diſtance to unite.<note n="(g)" place="bottom">Heb. 11.1.</note>
+               </l>
+               <l>Thus the Spring-head of Faith aſpireth high;</l>
+               <l>While nature Sinks, or at her foot doth lye.</l>
+               <l>This Faith in greateſt Storms will ſteadfaſt ſtand,</l>
+               <l>'Tis a' Pillar in Gods houſe, not built on Sand.</l>
+               <pb n="21" facs="tcp:43529:13"/>
+               <l>To take Faith off its Principles ar't bent,</l>
+               <l>Firſt caſt the Sun out of the Firmament.<note n="(a)" place="bottom">Rev. 3.12.</note>
+               </l>
+               <l>This Faith truſts in an angry God, and knows</l>
+               <l>That though he frowns, Gods love unto him<note n="†" place="bottom">Jonah 2.4.</note> flows.</l>
+               <l>A vigorous Faith, though it be beaten back,</l>
+               <l>Comes on again, its courage grows not ſlack.</l>
+               <l>Treble repulſes <hi>Cana'ns</hi> Woman takes,</l>
+               <l>Diſcouragements good Arguments ſhe makes;</l>
+               <l>And ſo with a freſh onſet, winning Fame,</l>
+               <l>Her Faith prevail'd, for Chriſt ſhe overcame:</l>
+               <l>Her key of Faith unlockt his bowels: ſo,</l>
+               <l>He granted her requeſt, e're ſhe did go:</l>
+               <l>She having got his Heart, might likwiſe have,</l>
+               <l>His treaſure too; all that ſhe askt He gave.<note n="(c)" place="bottom">Mat. 15.28.</note>
+               </l>
+               <l>Suff'ring, before the Smalleſt Sin 'twill chuſe,</l>
+               <l>And Sanctity, though it ſhould ſafety loſe.</l>
+               <l>A Saint can Sail to Heav'n 'gainſt wind and tide,</l>
+               <l>Vain Reaſon, and Temptation caſt aſide.</l>
+               <l>
+                  <hi>Abra'ham</hi> by Faith the hardeſt knots unties;</l>
+               <l>Preſents his onely Son in Sacrifice:</l>
+               <l>Knowing that God could from his aſhes raiſe,</l>
+               <l>A Mediator: <hi>Abr'ham</hi> God obeys.<note n="(d)" place="bottom">Heb. 11.18, 19.</note>
+               </l>
+               <l>Upon his Champion-Faith the Lord did ſet,</l>
+               <l>A Trophy of great Honour, laſting yet.<note n="(e)" place="bottom">Gen. 22.16, 17, 18.</note>
+               </l>
+               <l>Faith trades with God for time, it makes not haſt;</l>
+               <l>Long Voyages have rich returns at laſt.<note n="*" place="bottom">Iſa. 28.16.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Who in this glorious Path of Faith have trod,</l>
+               <l>Declare the fruit of their Converſe with God.<note n="(f)" place="bottom">Heb. 11. <hi>chap.</hi>
+                  </note>
+               </l>
+               <pb n="22" facs="tcp:43529:14"/>
+               <l>Infant believers, though your Faith be weak,</l>
+               <l>If true, this bruiſed Reed Chriſt will not break.</l>
+               <l>A weak Faith on a ſtrong Chriſt can rely;</l>
+               <l>A palſie hand the Marriage knot can tye.<note n="(a)" place="bottom">Rom. 14.1, 12. Mat. 12.20.</note>
+               </l>
+               <l>The ſtronger Faith the firmer union makes,</l>
+               <l>And of Chriſt's Sweeter influence partakes.</l>
+               <l>Profeſſion's honour'd when our grace doth Spring;</l>
+               <l>Strong Faith to God doth greater glory bring.<note n="(b)" place="bottom">Rom. 4.20.</note>
+               </l>
+               <l>Chriſt nurſeth us with his own Breaſt and blood;</l>
+               <l>On this expreſsleſs Love, let's chew the Cud.</l>
+               <l>Though nought of Satisfaction can be done,</l>
+               <l>Something of Gratulation may be ſhown.</l>
+               <l>Chriſt our Sin-off'ring, did our Souls relieve;</l>
+               <l>Our Selves to Him, as a Thank-offring give.</l>
+               <l>Let us be ſteel'd with Courage; Fight, not fly;</l>
+               <l>It is our Glory for the Truth to dye.<note n="(c)" place="bottom">1 Pet. 4, 14. Dan. 3.17.</note>
+               </l>
+               <l>Let's live to Him who dy'd for us, diſpenſe</l>
+               <l>Our choiſeſt Gifts; our Gold and Frankincenſe.<note n="(d)" place="bottom">Mat. 2.11.</note>
+               </l>
+               <l>Chriſts blood can kill our Sin, our grace increaſe;</l>
+               <l>Let's bring forth Fruits of Righteouſneſs and Peace.<note n="(e)" place="bottom">Cant. 7.7. Numb. 5.27, 28.</note>
+               </l>
+               <l>Lets with Seraphick Zeal the Truth embrace;</l>
+               <l>Zeal loves Truth moſt, when hate beſmears its face.<note n="(f)" place="bottom">Pſal. 119.126, 227,</note>
+               </l>
+               <l>The Lord all knowledge void of Practice hates,</l>
+               <l>A Luke warm Temper, Chriſt abominates.<note n="(g)" place="bottom">Hoſ. 7.1. Rev. 3.15.</note>
+               </l>
+               <l>Lord let the Altar of our hearts ſtill flame,</l>
+               <l>With holy Zeal, to magnify thy Name.</l>
+               <l>To God let us our hearts, hands, voices raiſe,</l>
+               <l>And dedicate our Selves unto his Praiſe.<note n="(h)" place="bottom">Pſal. 116.16, &amp;c.</note>
+               </l>
+            </lg>
+            <pb n="23" facs="tcp:43529:14"/>
+            <lg>
+               <l>If by his Preſence Chriſt our hearts revives,</l>
+               <l>Let as declare it by our heav'nly lives.</l>
+               <l>Let us new <hi>Cana'ns</hi> ſacred Language uſe,</l>
+               <l>Becoming words, by gracious Prudence chuſe,</l>
+               <l>While words of Truth and Soberneſs we ſpeak,</l>
+               <l>Out, from our Lips doth healing balſom break:<note n="(a)" place="bottom">Col. 4.6. 1 Pet. 3.15. Acts 26.25. Prov. 15.1, 4. &amp; 12.18, 19. &amp; 25.11, 12, 15. Jam. 1.26.</note>
+               </l>
+               <l>Let our Affections fix on things above,</l>
+               <l>Our breathings Heav'n-ward like ſweet Incenſe move<note n="(b)" place="bottom">Col. 3.2. Phil. 3.11, 20.</note>
+               </l>
+               <l>In Saints, angelick Sanctity ſhould ſhine,</l>
+               <l>Our Converſation ſhould be all divine.</l>
+               <l>As Coyn within the ring an Image bears,</l>
+               <l>And yet without a Superſcription wears.</l>
+               <l>So where Chriſts Image in the heart is found,</l>
+               <l>His Name writ in our Life ſhould it ſurround.</l>
+               <l>But fleſhly Luſts a Chriſtian ſhould not name,</l>
+               <l>For it becomes him to walk void of blame.<note n="(c)" place="bottom">1 Pet. 2.11, 12. Eph. 5.3.</note>
+               </l>
+               <l>
+                  <hi>Judas,</hi> the Devil with the ſop receives,</l>
+               <l>So of the bleſſing he himſelf bereaves.<note n="(d)" place="bottom">Joh. 13.26.30.</note>
+               </l>
+               <l>Afreſh the Lord of glory's Crucifi'd</l>
+               <l>By thoſe who from his Precepts turn aſide.<note n="(e)" place="bottom">Heb. 6.4, 5, 6. 2 Pet. 2.1, 21, 22.</note>
+               </l>
+               <l>He that unworthily drinks of this Spring,</l>
+               <l>Upon himſelf doth ſwift damnation bring.<note n="(f)" place="bottom">1 Cor. 6.9, 10, 11. &amp; 11.27, to 30.</note>
+               </l>
+               <l>O that the luſtre of our Holineſs</l>
+               <l>Might in our lives convicting proof expreſs!</l>
+               <l>That in this Ordinance which Chriſt ordains,</l>
+               <l>Confirming and transforming Pow'r remains!</l>
+               <pb n="24" facs="tcp:43529:15"/>
+               <l>Chriſts blood hath reconciled us to God,</l>
+               <l>He, underfoot, hath Sin and Satan trod.</l>
+               <l>What cordial Comfort for our Souls is here?</l>
+               <l>What need we now the proudeſt Foe to fear?<note n="(a)" place="bottom">Acts 20.28. Rom. 8.34. Gen. 3.15.</note>
+               </l>
+               <l>If Satans penſil paint our Sins in grain,</l>
+               <l>Chriſts blood, that Spunge, will wipe them out again.</l>
+               <l>His blood the Debt-book croſt, the Law diſcharg'd;</l>
+               <l>All bonds are Cancell'd, and our Souls enlarg'd.</l>
+               <l>This Sacrifice a full atonement makes,<note n="(b)" place="bottom">Heb. 9.10, &amp;c. &amp; 5.6.</note>
+               </l>
+               <l>Whereof each Saint eternally partakes.</l>
+            </lg>
+            <lg>
+               <l>'Tis call'd the blood of the New Teſtament,</l>
+               <l>Which is a Will of an unknown extent.</l>
+               <l>The Saints may Pardon, Grace, and Glory claim;</l>
+               <l>Chriſt by his Death gave force unto the ſame;</l>
+               <l>The Will was Sealed when Chriſts blood was ſhed.</l>
+               <l>Theſe Gifts are in the Scriptures regiſtred.<note n="(c)" place="bottom">Heb. 9. <hi>ch.</hi>
+                  </note>
+               </l>
+               <l>Art thou not fill'd with Joy, poſſeſt of Heav'n?</l>
+               <l>Yet by this Will it is confirm'd, and giv'n:</l>
+               <l>The Deed is Seal'd, th' Inheritance is ſure;</l>
+               <l>Than let us Hardſhip cheerfully endure.</l>
+               <l>A dying Chriſt allays the pangs of death,</l>
+               <l>'Tis Conquered, and beaten out of breath.</l>
+               <l>Chriſt by his death cut off the lock of Sin,</l>
+               <l>So his ſtrength fails, and he hath ſleighted bin.</l>
+               <l>He brake this Lyons teeth, pluckt out the Thorn</l>
+               <l>Which often had the Conſcience prickt and torn.<note n="(d)" place="bottom">Hoſea 13.14. 1 Cor. 15.54. to 57.</note>
+               </l>
+               <l>Death is diſarm'd, then why ſhould Chriſtians fear?</l>
+               <l>For though it ſtrikes, it cannnot ſting or tear.</l>
+               <pb n="25" facs="tcp:43529:15"/>
+               <l>Death's poyſon Chriſt drew out, ſo 'tis become</l>
+               <l>A friendly Beaſt, to carry Chriſtians home.</l>
+               <l>Faith Heav'n preſents, and Death poſſeſſion takes;</l>
+               <l>Thus death a bleſſed Change for Chriſtians makes.</l>
+               <l>Chriſts precious blood makes Deaths pale face appear</l>
+               <l>Ruddy Complexion'd; this our hearts ſhould cheer.</l>
+               <l>But here's a dark ſide of the Cloud to thoſe</l>
+               <l>Who dye in Sin, and Goſpel-grace oppoſe.</l>
+               <l>Chriſt is a Load-ſtone, whoſe attractive Love</l>
+               <l>Makes his Elect with fervor Heav'n-ward move.</l>
+               <l>But like a Mill-ſtone, ſinks down deep in Hell</l>
+               <l>Thoſe Reprobates, who 'gainſt his Laws rebell.</l>
+               <l>Who ſleight Chriſts blood, and count it but as droſs,</l>
+               <l>Shall feel that wrath, which Chriſt felt on the Croſs.</l>
+               <l>Becauſe they can't at once endure that woe,</l>
+               <l>It, to Eternity they undergo.<note n="(a)" place="bottom">2 Theſſ. 1.9.</note>
+               </l>
+               <l>Sinners will not believe till 'tis too late,</l>
+               <l>The wretchedneſs of their Eternal ſtate.</l>
+               <l>'Tis ſaid the Mole is blind untill ſhe dyes,</l>
+               <l>So Satan, this Worlds God, blinds Sinners eyes:</l>
+               <l>But dying, Conſcience ſees a gloomy light,</l>
+               <l>So of Gods flaming Wrath they have a ſight:</l>
+               <l>Which ſight will but a dreadful Prologue be</l>
+               <l>To an eternal horrrid Tragedie.<note n="(b)" place="bottom">2 Cor. 4.4.</note>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="poem">
+            <pb n="26" facs="tcp:43529:16"/>
+            <head>On the Excellency and <g ref="char:V">Ʋ</g>ſefulneſs of Goſpel Doctrine, Both in Publick and Private.</head>
+            <l>THe Doctrine of free Grace, and of its Seals,</l>
+            <l>By Faith apply'd, our wounded Spirits heals.</l>
+            <l>It is our daily food; and every Gueſt</l>
+            <l>Upon the Sabbath, on the ſame doth Feaſt.</l>
+            <l>This Manna is a delicate ſo rare,</l>
+            <l>We never ſhall deſire to change our Fare.</l>
+            <l>When God doth not his Publick means afford,</l>
+            <l>He privately Supports us by his Word.</l>
+            <l>God doth the Poor maintain in health, as well,</l>
+            <l>As thoſe who in a Princes palace dwell.</l>
+            <l>A Child is nouriſht, and his ſtrength increas'd,</l>
+            <l>With Milk; conveyed by the Spoon or Breaſt.<note place="bottom">John 5.39. &amp; 6.63. &amp; 17.17. 1 Tim. 1.5. Heb. 6.1, 2. 2 Tim. 3.15, 16. Rom. 15.4. Rom. 1.16, 17. Eccl. 12.9, to 14. Rom. 7.14. Iſa. 8.20. Pſa. 1.1, 2. &amp; 19, 7, 8, 9, 10, &amp; 119.1. to 12, 97. Deut. 4.6, 7, 8. Gal. 2.20. 1 Pet. 1.3. to 9. &amp; 2.1, 1, to 11. Acts 20.6, 7.</note>
+            </l>
+         </div>
+         <div type="poem">
+            <pb n="27" facs="tcp:43529:16"/>
+            <head>Upon the Queſtion, <hi>Whether the Righteouſneſs of Chriſt, or our Faith juſtifies us?</hi>
+            </head>
+            <l>WE oft unto the Servant that apply,</l>
+            <l>Which is the Maſter's in Propriety.</l>
+            <l>God ſent his Son, the Spirit gave the Word,<note n="(a)" place="bottom">1 Theſ. 1.5. &amp; 2.4, to 13. &amp; 3.2. &amp; 2 Theſſ. 1.8. &amp; 2.13, 14, 15.</note>
+            </l>
+            <l>The Word brings Faith, and Faith doth Works afford.</l>
+            <l>The Platform of Salvation thus diſplay'd,</l>
+            <l>Each Stone muſt in his proper place be laid.</l>
+            <l>The Father chooſes, and the Son procures,</l>
+            <l>The Spirit ſanctifies, ſo Life aſſures.</l>
+            <l>The Cauſes and the Means are here conjoyn'd,</l>
+            <l>To each his proper Function is aſſign'd:</l>
+            <l>If Faith or Works Chriſts Juſtice ſhould diſplace,</l>
+            <l>It would the Goſpel Doctrine quite deface.</l>
+            <l>The Father, Son and Spirit juſtifie,</l>
+            <l>The which the Word, Faith &amp; good Works deſcry<note n="(b)" place="bottom">Rom. 8.33. 1 Cor. 1.30. Rom. 8.15, 16. Hab: 2.4. Gal. 2.16, to 21. Jam. 2.10. to 26. compared with 1 Theſ. 5.23. 1 Cor. 1.30. 2 Theſſ. 2.13. Joh. 17.17. Acts 26.18. Heb. 11. <hi>ch.</hi> &amp; 12.1, 2. 1 Pet. 3. to 9.</note>:</l>
+            <l>Even as the Root, the Body, and the Head,</l>
+            <l>Their precious Fruits abundantly do ſpread.</l>
+            <l>When ſacred Truth, the Heart, by Faith receives,</l>
+            <l>Its teſtimony by good Works it gives.</l>
+            <l>How perfect are theſe ſacred Symmetries!</l>
+            <l>How ſweetly all, together harmonize!</l>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="errata">
+            <pb facs="tcp:43529:17"/>
+            <head>ERRATA.</head>
+            <list>
+               <item>Page 3. line 27. for <hi>King</hi> read <hi>Hinge.</hi>
+               </item>
+               <item>Page 12. l. 15. for <hi>andundantly,</hi> r. <hi>abundantly.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:43529:17"/>
+         </div>
+      </back>
+   </text>
+</TEI>
